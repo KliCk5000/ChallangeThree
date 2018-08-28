@@ -7,6 +7,10 @@ header {
     margin-bottom: 40px;
 }
 
+h2 {
+    font-size: 1.17em;
+}
+
 .card {
     border: 1px solid lightgrey;
     margin-bottom: 20px;
